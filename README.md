@@ -50,7 +50,7 @@ You may choose which backend implementation to work with:
 ### 1. Frontend UI Polish
 - Refresh the `frontend` layout to highlight your CSS skills. Arrange the form and vendor list in a responsive layout that presents as a single column on mobile and a tidy multi-column layout on desktop using modern CSS (flexbox and/or grid).
 - Introduce a lightweight design system by defining CSS variables (colours, spacing, typography) in `src/style.css` and apply them across components.
-- Enhance the vendor list with hover/focus states, zebra striping, and an accessible empty state while keeping WCAG AA contrast and visible keyboard focus.
+- Enhance the vendor list with hover/focus states, zebra striping, and an accessible empty state.
 - Add a small visual flourish such as a light/dark theme toggle (or similar motif) handled with CSS-first techniques.
 - Document the layout approach, design tokens, breakpoints, and accessibility considerations in this README, including a quick before/after screenshot or Loom link if possible.
 
